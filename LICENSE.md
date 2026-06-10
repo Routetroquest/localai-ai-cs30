@@ -1,4 +1,4 @@
-# 
+# Código aberto LocalAI extensões. Com suporte multimodal e preservação de privacidade — otimizado para máximo desempenho e eficiência.
 
 
 
